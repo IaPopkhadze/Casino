@@ -1,0 +1,21 @@
+.twoimages {
+  width: 100vw;
+  overflow: hidden;
+  position: relative;
+}
+.twoimages .imageOne {
+  width: 1290px;
+  height: 301px;
+  margin-left: 11rem;
+}
+.twoimages .imageTwo {
+  position: absolute;
+  top: 0;
+  left: 51.5rem;
+  width: 965px;
+  height: 301px;
+}
+
+.section1 {
+  margin-top: 1rem;
+}/*# sourceMappingURL=section1.css.map */

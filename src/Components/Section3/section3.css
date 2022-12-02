@@ -1,0 +1,76 @@
+.section3 {
+  margin-top: 10rem;
+}
+.section3 .blackBaner {
+  width: 100%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  background-color: black;
+  color: grey;
+  display: flex;
+  justify-content: space-between;
+}
+.section3 .blackBaner .blackBanerContent1 {
+  margin-left: 2rem;
+  display: flex;
+  gap: 1rem;
+}
+.section3 .blackBaner .blackBanerContent2 {
+  display: flex;
+  gap: 1.5rem;
+  margin-right: 2rem;
+}
+.section3 .blackBaner .blackBanerContent2 .language {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.section3 .blackBaner .blackBanerContent2 .language img {
+  width: 38px;
+  height: 38px;
+  border-radius: 50px;
+}
+.section3 .blackBaner .blackBanerContent2 .language .dropDownIcon {
+  font-size: 2.5rem;
+}
+.section3 .blackBaner .blackBanerContent2 .oddType {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.section3 .blackBaner .blackBanerContent2 .oddType .dropDownIcon {
+  font-size: 2.5rem;
+}
+.section3 .betWillBaner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background-color: rgb(24, 23, 23);
+}
+.section3 .betWillBaner .betWill {
+  margin-left: 2rem;
+}
+.section3 .betWillBaner .betWill h2 {
+  color: yellow;
+}
+.section3 .betWillBaner .betWill h2 span {
+  color: white;
+}
+.section3 .betWillBaner .signUp {
+  margin-right: 3rem;
+  display: flex;
+  gap: 1rem;
+  color: white;
+}
+.section3 .betWillBaner .signUp .signUpText {
+  background-color: yellow;
+  color: #1a1818;
+  padding: 0.2rem 1rem;
+  border-radius: 0.2rem;
+  font-weight: bold;
+}
+.section3 .content {
+  background-color: rgb(111, 111, 111);
+}/*# sourceMappingURL=section3.css.map */
